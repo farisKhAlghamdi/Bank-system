@@ -1,6 +1,4 @@
-# This work done by group 11:
-# Faris Alghamdi, 201920230, (50%)
-# Khalid Alahmari, 201857680, (50%)
+# This work done by: Faris Alghamdi
 
 
 # We need to import a method from time library to make the program sleep for few seconds:
