@@ -1,2 +1,2 @@
 # Bank-system
-a menu driven program that can perform features related to bank system
+a menu driven command line program that emulate a bank system
